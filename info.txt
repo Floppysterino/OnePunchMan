@@ -1,0 +1,6 @@
+title: One Punch Man
+description: One-Punch Man follows Saitama, an unimpressive-looking man who can defeat any opponent with a single punch but suffers from crippling existential boredom due to a lack of challenging fights.
+author: One
+artist: Yuske Murata
+cover: https://cdn.imgchest.com/files/82f48ff58fc7.png
+groups: floppy
