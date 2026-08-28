@@ -10,14 +10,28 @@
             "title": "「The First Strike」",
             "last_updated": "0",
             "groups":{
-                "floppy": "/proxy/api/imgchest/chapter/9rydbq93d4k"
+                "youtube.com/@FloppYsterino": "/proxy/api/imgchest/chapter/9rydbq93d4k"
+            }
+        },
+        "1.5": {
+            "title": "Chapter 1 Alternative",
+            "last_updated": "0",
+            "groups":{
+                "youtube.com/@FloppYsterino": "/proxy/api/imgchest/chapter/dl7poapxp4o"
+            }
+        },
+        "235": {
+            "title": "「Lasting History」",
+            "last_updated": "0",
+            "groups":{
+                "youtube.com/@FloppYsterino": "/proxy/api/imgchest/chapter/9249q2bzmyn"
             }
         },
         "236": {
             "title": "「Youngsters」",
             "last_updated": "0",
             "groups": {
-                "floppy": "/proxy/api/imgchest/chapter/ne7bblqnn75"
+                "youtube.com/@FloppYsterino": "/proxy/api/imgchest/chapter/ne7bblqnn75"
             }
         }
     }
